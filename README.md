@@ -72,3 +72,8 @@ Overall, we are proud of the work we have done in creating and testing these mod
 * The neural network models in this project use a basic architecture with a few dense layers and ReLU activation function. You can modify the models by adding or removing layers, changing the activation function, or adjusting the hyperparameters.
 * The performance of the models may vary depending on the quality and quantity of the training data, as well as on the specific games and seasons being predicted. Therefore, we recommend using the models as a complementary tool for making informed decisions, rather than relying solely on their predictions.
 * This project was developed in Google Colab, which provides free GPU and TPU resources for training deep learning models. You may need to adapt the code to run on your own hardware or cloud platform.
+
+## Contributors
+- Tyler Goering
+- Terrence Mccoy
+- Jacob Macpherson
