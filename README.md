@@ -67,7 +67,13 @@ Overall, we are proud of the work we have done in creating and testing these mod
 
 
 ## Visualizations
+### Loss Plot
 
+![Loss Plot](https://github.com/Tmccoy22/fintech_project_2/blob/main/project_2_visuals%20_loss.png?raw=true)
+
+### Accuracy Plot
+
+![Accuracy Plot](https://github.com/Tmccoy22/fintech_project_2/blob/main/Project_2_visuals_accuracy.png?raw=true)
 ## Notes
 * The neural network models in this project use a basic architecture with a few dense layers and ReLU activation function. You can modify the models by adding or removing layers, changing the activation function, or adjusting the hyperparameters.
 * The performance of the models may vary depending on the quality and quantity of the training data, as well as on the specific games and seasons being predicted. Therefore, we recommend using the models as a complementary tool for making informed decisions, rather than relying solely on their predictions.
