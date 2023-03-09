@@ -42,19 +42,19 @@ pip install -r requirements.txt
 ## Imports
 The following Python libraries were used in this project:
 
-import pandas as pd
-import numpy as np
-from pathlib import Path
-import matplotlib.pyplot as plt
-from sklearn import svm
-import tensorflow as tp
-from tensorflow.keras.layers import Dense
-from tensorflow.keras.models import Sequential
-from sklearn.preprocessing import StandardScaler
-from pandas.tseries.offsets import DateOffset
-from sklearn.metrics import classification_report
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.model_selection import train_test_split
+* import pandas as pd
+* import numpy as np
+* from pathlib import Path
+* import matplotlib.pyplot as plt
+* from sklearn import svm
+* import tensorflow as tp
+* from tensorflow.keras.layers import Dense
+* from tensorflow.keras.models import Sequential
+* from sklearn.preprocessing import StandardScaler
+* from pandas.tseries.offsets import DateOffset
+* from sklearn.metrics import classification_report
+* from sklearn.preprocessing import OneHotEncoder
+* from sklearn.model_selection import train_test_split
 
 ## Analysis Summary and Results
 After experimenting with two different models, we were able to achieve an accuracy of 0.6431 in our predictions by adjusting the epoch from 50 to 100.
