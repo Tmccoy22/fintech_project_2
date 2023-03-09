@@ -57,7 +57,7 @@ The following Python libraries were used in this project:
 * from sklearn.model_selection import train_test_split
 
 ## Analysis Summary and Results
-After experimenting with two different models, we were able to achieve an accuracy of 0.6431 in our predictions by adjusting the epoch from 50 to 100.
+After experimenting with two different models, we were able to achieve an accuracy of 63 % in our predictions by adjusting the epoch from 50 to 100.
 
 This is a significant result, as it demonstrates the effectiveness of using neural network models in predicting the outcomes of sports games. Our model's accuracy can help provide valuable insights to fans, analysts, and even sports betting enthusiasts who are interested in predicting game results with greater accuracy.
 
